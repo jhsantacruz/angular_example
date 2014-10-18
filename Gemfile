@@ -37,3 +37,5 @@ group :test do
   gem 'database_cleaner'
   gem 'factory_girl_rails'
 end
+
+gem 'active_model_serializers', '~> 0.9.0'
